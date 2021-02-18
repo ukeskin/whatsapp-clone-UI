@@ -1,6 +1,6 @@
 import React from 'react'
 import './Sidebar.css'
-import SidebarChat from './SidebarChat.js'
+import SidebarChat from '../SidebarChat'
 import { Avatar, IconButton } from '@material-ui/core'
 import DonutLargeIcon from '@material-ui/icons/DonutLarge';
 import SearchOutlined from '@material-ui/icons/SearchOutlined';
